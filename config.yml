@@ -1,0 +1,93 @@
+# config.yml برای khashayardev
+# این فایل بر اساس پروژه‌های واقعی شما تنظیم شده است.
+
+# نام کاربری شما در گیت‌هاب (ضروری)
+username: khashayardev
+
+# اطلاعات پروفایل که در هدر کهکشانی نمایش داده می‌شود
+profile:
+  name: "Khashayar Dev"
+  tagline: "Python Developer · API Integrator · Data Extraction Expert"
+  company: null
+  location: "Earth, Solar System"
+  bio: |
+    با پایتون اسکریپت می‌نویسم تا از APIهای بزرگ مثل TMDB و IGDB داده استخراج کنم.
+    تمرکزم روی خودکارسازی، کد تمیز و ابزارهای کاربردیِ متن‌باز است.
+  philosophy: '"اسکریپت خوب، کاری را که باید ۱۰ بار انجام دهی، یک بار انجام می‌دهد."'
+
+# لینک‌های شبکه‌های اجتماعی (در پایین پروفایل نمایش داده می‌شوند)
+social:
+  email: "khashayardev@pm.me"
+  linkedin: "khashayardev"  # اگر لینکدین ندارید، null بگذارید
+  website: "https://github.com/khashayardev"
+
+# بازوهای کهکشان: سه حوزه اصلی تخصص شما
+# رنگ‌های موجود: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "API Integration & Data Extraction"
+    color: "synapse_cyan"
+    items:
+      - "TMDB API"
+      - "IGDB API"
+      - "RESTful Services"
+      - "Web Scraping"
+  - name: "Automation & Workflows"
+    color: "dendrite_violet"
+    items:
+      - "GitHub Actions"
+      - "Scheduled Tasks"
+      - "Data Pipelines"
+      - "Python Scripting"
+  - name: "Core Development Stack"
+    color: "axon_amber"
+    items:
+      - "Python"
+      - "JavaScript"
+      - "TypeScript"
+      - "Git & GitHub"
+
+# پروژه‌های شاخص (صورت‌های فلکی)
+# `arm` مشخص می‌کند هر پروژه به کدام بازوی تخصص (بالا) متصل شود.
+# `arm: 0` برای اولین بازو (API)، `arm: 1` برای دوم (Automation)، `arm: 2` برای سوم (Core Stack)
+projects:
+  - repo: "khashayardev/movie-database-scraper"
+    arm: 0
+    description: "اسکریپت خودکار دریافت اطلاعات فیلم‌ها و سریال‌ها از TMDB"
+  - repo: "khashayardev/igdb-game-database-scraper"
+    arm: 0
+    description: "کرالر حرفه‌ای اطلاعات بازی‌ها از IGDB با pagination هوشمند"
+  - repo: "khashayardev/tmdb-poster-downloader"
+    arm: 1
+    description: "دانلود انبوه پوسترهای فیلم از TMDB با فیلتر سال"
+  - repo: "khashayardev/github-models-ai-chatbot"
+    arm: 2
+    description: "چت‌بات ساده با مدل‌های هوش مصنوعی گیت‌هاب"
+
+# تنظیمات رنگ پالت کهکشانی (همان تنظیمات پیش‌فرض عالی است، می‌توانید بعداً تغییر دهید)
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# آمارهایی که می‌خواهید در کارت "Mission Telemetry" نشان داده شوند
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# تنظیمات مربوط به زبان‌های برنامه‌نویسی
+languages:
+  exclude:            # زبان‌هایی که نمی‌خواهید در نمودار نشان داده شوند
+    - "HTML"
+    - "CSS"
+    - "Jupyter Notebook"
+  max_display: 6      # حداکثر تعداد زبانی که نشان داده می‌شود
