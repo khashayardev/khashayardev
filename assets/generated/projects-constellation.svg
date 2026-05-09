@@ -145,15 +145,15 @@
       <circle cx="200.5" cy="150" r="40" fill="#00d4ff" opacity="0.03" filter="url(#card-nebula)"/>
       <rect x="32.5" y="55" width="240" height="2" fill="#00d4ff" opacity="0.1"><animateTransform attributeName="transform" type="translate" from="0 0" to="0 140" dur="6s" repeatCount="indefinite"/></rect>
     </g>
-    <circle cx="152.5" cy="85" r="14" fill="none" stroke="#00d4ff" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 152.5 85" to="360 152.5 85" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="152.5" cy="75" r="14" fill="none" stroke="#00d4ff" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 152.5 85" to="360 152.5 85" dur="12s" repeatCount="indefinite"/></circle>
     <circle cx="152.5" cy="85" r="8" fill="#00d4ff" opacity="0.15" filter="url(#proj-glow-0)"/>
     <circle cx="152.5" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
     <circle cx="152.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">movie-database-scraper</text>
-    <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">اسکریپت خودکار دریافت اطلاعات</text>
-    <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">فیلم‌ها و سریال‌ها از TMDB</text>
-    <rect x="29.0" y="163" width="247" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
-    <text x="152.5" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">API Integration &amp; Data Extraction</text>
+    <text x="152.5" y="118" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">movie-database-scraper</text>
+    <text x="152.5" y="136" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">اسکریپت خودکار دریافت اطلاعات</text>
+    <text x="152.5" y="152" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">فیلم‌ها و سریال‌ها از TMDB</text>
+    <rect x="29.0" y="172" width="247" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
+    <text x="152.5" y="184" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">API Integration &amp; Data Extraction</text>
   </g>
   <g opacity="0" style="animation: card-appear 0.6s ease 0.3s forwards">
     <rect x="305.0" y="55" width="240" height="140" rx="8" ry="8" fill="url(#card-bg-1)" stroke="#1a2332" stroke-width="1"/>
@@ -162,15 +162,15 @@
       <circle cx="473.0" cy="150" r="40" fill="#00d4ff" opacity="0.03" filter="url(#card-nebula)"/>
       <rect x="305.0" y="55" width="240" height="2" fill="#00d4ff" opacity="0.1"><animateTransform attributeName="transform" type="translate" from="0 0" to="0 140" dur="6s" repeatCount="indefinite"/></rect>
     </g>
-    <circle cx="425.0" cy="85" r="14" fill="none" stroke="#00d4ff" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 425.0 85" to="360 425.0 85" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="425.0" cy="75" r="14" fill="none" stroke="#00d4ff" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 425.0 85" to="360 425.0 85" dur="12s" repeatCount="indefinite"/></circle>
     <circle cx="425.0" cy="85" r="8" fill="#00d4ff" opacity="0.15" filter="url(#proj-glow-1)"/>
     <circle cx="425.0" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="425.0" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">igdb-game-database-scraper</text>
-    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">کرالر حرفه‌ای اطلاعات بازی‌ها از</text>
-    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">IGDB با pagination هوشمند</text>
-    <rect x="301.5" y="163" width="247" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
-    <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">API Integration &amp; Data Extraction</text>
+    <text x="425.0" y="118" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">igdb-game-database-scraper</text>
+    <text x="425.0" y="136" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">کرالر حرفه‌ای اطلاعات بازی‌ها از</text>
+    <text x="425.0" y="152" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">IGDB با pagination هوشمند</text>
+    <rect x="301.5" y="172" width="247" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
+    <text x="425.0" y="184" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">API Integration &amp; Data Extraction</text>
   </g>
   <g opacity="0" style="animation: card-appear 0.6s ease 0.6s forwards">
     <rect x="577.5" y="55" width="240" height="140" rx="8" ry="8" fill="url(#card-bg-2)" stroke="#1a2332" stroke-width="1"/>
@@ -179,15 +179,15 @@
       <circle cx="745.5" cy="150" r="40" fill="#a78bfa" opacity="0.03" filter="url(#card-nebula)"/>
       <rect x="577.5" y="55" width="240" height="2" fill="#a78bfa" opacity="0.1"><animateTransform attributeName="transform" type="translate" from="0 0" to="0 140" dur="6s" repeatCount="indefinite"/></rect>
     </g>
-    <circle cx="697.5" cy="85" r="14" fill="none" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 697.5 85" to="360 697.5 85" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="697.5" cy="75" r="14" fill="none" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0 697.5 85" to="360 697.5 85" dur="12s" repeatCount="indefinite"/></circle>
     <circle cx="697.5" cy="85" r="8" fill="#a78bfa" opacity="0.15" filter="url(#proj-glow-2)"/>
     <circle cx="697.5" cy="85" r="5" fill="#a78bfa" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
     <circle cx="697.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="697.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">tmdb-poster-downloader</text>
-    <text x="697.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">دانلود انبوه پوسترهای فیلم از</text>
-    <text x="697.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">TMDB با فیلتر سال</text>
-    <rect x="612.5" y="163" width="170" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
-    <text x="697.5" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Automation &amp; Workflows</text>
+    <text x="697.5" y="118" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">tmdb-poster-downloader</text>
+    <text x="697.5" y="136" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">دانلود انبوه پوسترهای فیلم از</text>
+    <text x="697.5" y="152" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">TMDB با فیلتر سال</text>
+    <rect x="612.5" y="172" width="170" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
+    <text x="697.5" y="184" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Automation &amp; Workflows</text>
   </g>
 
   <!-- Global scan line -->
